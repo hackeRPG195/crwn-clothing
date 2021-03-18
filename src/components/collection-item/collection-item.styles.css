@@ -4,7 +4,7 @@
     flex-direction: column;
     height: 350px;
     padding: 1%;
-    
+    text-align: end;
     
 }
 .collection-item .image {
